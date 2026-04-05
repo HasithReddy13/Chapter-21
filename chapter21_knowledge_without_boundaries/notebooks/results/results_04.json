@@ -1,0 +1,23 @@
+{
+  "chunk_sizes_tested": [
+    256,
+    512,
+    1024
+  ],
+  "results": {
+    "256": {
+      "avg_adherence": 0.1,
+      "avg_similarity": 0.7138248205184936
+    },
+    "512": {
+      "avg_adherence": 0.1,
+      "avg_similarity": 0.710597825050354
+    },
+    "1024": {
+      "avg_adherence": 0.0,
+      "avg_similarity": 0.6947774112224578
+    }
+  },
+  "agentic_baseline": 0.6,
+  "gap_tuning_cannot_close": 0.5
+}

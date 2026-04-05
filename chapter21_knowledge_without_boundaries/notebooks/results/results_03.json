@@ -1,0 +1,114 @@
+{
+  "strategy_a": {
+    "avg_adherence": 0.2,
+    "avg_similarity": 0.7096742212772369,
+    "per_query": [
+      {
+        "query_id": "q1",
+        "adherence": 0,
+        "similarity": 0.7528426051139832
+      },
+      {
+        "query_id": "q2",
+        "adherence": 0,
+        "similarity": 0.6582375168800354
+      },
+      {
+        "query_id": "q3",
+        "adherence": 1,
+        "similarity": 0.725450336933136
+      },
+      {
+        "query_id": "q4",
+        "adherence": 0,
+        "similarity": 0.7938055992126465
+      },
+      {
+        "query_id": "q5",
+        "adherence": 0,
+        "similarity": 0.6450263857841492
+      },
+      {
+        "query_id": "q6",
+        "adherence": 0,
+        "similarity": 0.7759806513786316
+      },
+      {
+        "query_id": "q7",
+        "adherence": 0,
+        "similarity": 0.6785693168640137
+      },
+      {
+        "query_id": "q8",
+        "adherence": 0,
+        "similarity": 0.6802977919578552
+      },
+      {
+        "query_id": "q9",
+        "adherence": 1,
+        "similarity": 0.6793955564498901
+      },
+      {
+        "query_id": "q10",
+        "adherence": 0,
+        "similarity": 0.7071364521980286
+      }
+    ]
+  },
+  "strategy_b": {
+    "avg_adherence": 0.6,
+    "avg_similarity": 0.6905529916286468,
+    "per_query": [
+      {
+        "query_id": "q1",
+        "adherence": 1,
+        "similarity": 0.7300670146942139
+      },
+      {
+        "query_id": "q2",
+        "adherence": 1,
+        "similarity": 0.5823071002960205
+      },
+      {
+        "query_id": "q3",
+        "adherence": 1,
+        "similarity": 0.7059352993965149
+      },
+      {
+        "query_id": "q4",
+        "adherence": 1,
+        "similarity": 0.7809337377548218
+      },
+      {
+        "query_id": "q5",
+        "adherence": 0,
+        "similarity": 0.6467461585998535
+      },
+      {
+        "query_id": "q6",
+        "adherence": 0,
+        "similarity": 0.772989809513092
+      },
+      {
+        "query_id": "q7",
+        "adherence": 0,
+        "similarity": 0.680303692817688
+      },
+      {
+        "query_id": "q8",
+        "adherence": 1,
+        "similarity": 0.6353923082351685
+      },
+      {
+        "query_id": "q9",
+        "adherence": 1,
+        "similarity": 0.6776800155639648
+      },
+      {
+        "query_id": "q10",
+        "adherence": 0,
+        "similarity": 0.6931747794151306
+      }
+    ]
+  }
+}
